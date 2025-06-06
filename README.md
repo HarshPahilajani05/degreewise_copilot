@@ -67,5 +67,5 @@ Whether you’re a first-year student or about to graduate, DegreeWise Copilot m
 1. **Clone the repository** (or download the ZIP):
 
    ```bash
-   git clone https://github.com/<your-username>/degreewise_copilot.git
+   git clone https://github.com/HarshPahilajani05/degreewise_copilot.git
    cd degreewise_copilot
