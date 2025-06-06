@@ -23,7 +23,6 @@ DegreeWise Copilot is a Streamlit app powered by GPT-4o. Upload your Degree Work
 
 ### Clone the repository
 
-```bash
 git clone https://github.com/HarshPahilajani05/degreewise_copilot.git
 cd degreewise_copilot
 
